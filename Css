@@ -1,0 +1,40 @@
+body{
+  text-emphasis-color: white;
+  text-decoration-color: aqua;
+  animation-delay: 3s;
+  font-size: 30px;
+  
+}
+
+header{
+  font-size: 40px;
+  font-style: bold;
+  font-
+  
+}
+
+button{
+  border-width: 3px;
+  border-color: green;
+  border-radius: 100px;
+  height:50px;
+  width: 500px;
+  font-size: 30px;
+  background-color: linen;
+  
+}
+
+a{
+  font-size: 35px;
+}
+
+.bg-1{
+  background-color: lightgreen;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block
+  
+}
+
+
+
